@@ -1,0 +1,88 @@
+[
+		{
+				"caption": "首选项(N)",
+				"mnemonic": "N",
+				"id": "preferences",
+				"children":
+				[
+						{
+							"caption": "插件设置(P)",
+							"mnemonic": "P",
+							"id": "package-settings",
+							"children":
+							[
+									{
+											"caption": "Side Bar",
+											"children":
+											[
+													{
+															"command": "open_file", "args":
+															{
+																	"file": "${packages}/SideBarEnhancements/Side Bar.sublime-settings"
+															},
+															"caption": "设置 – 默认"
+													},
+													{
+															"command": "open_file", "args":
+															{
+																	"file": "${packages}/User/Side Bar.sublime-settings"
+															},
+															"caption": "设置 – 用户"
+													},
+													{ "caption": "-" },
+													{
+														"command": "open_file",
+														"args": {
+																"file": "${packages}/SideBarEnhancements/Default (OSX).sublime-keymap",
+																"platform": "OSX"
+														},
+														"caption": "按键绑定 – 默认"
+													},
+													{
+														"command": "open_file",
+														"args": {
+																"file": "${packages}/SideBarEnhancements/Default (Linux).sublime-keymap",
+																"platform": "Linux"
+														},
+														"caption": "按键绑定 – 默认"
+													},
+													{
+														"command": "open_file",
+														"args": {
+																"file": "${packages}/SideBarEnhancements/Default (Windows).sublime-keymap",
+																"platform": "Windows"
+														},
+														"caption": "按键绑定 – 默认"
+													},
+													{
+														"command": "open_file",
+														"args": {
+																"file": "${packages}/User/Default (OSX).sublime-keymap",
+																"platform": "OSX"
+														},
+														"caption": "按键绑定 – 用户"
+													},
+													{
+														"command": "open_file",
+														"args": {
+																"file": "${packages}/User/Default (Linux).sublime-keymap",
+																"platform": "Linux"
+														},
+														"caption": "按键绑定 – 用户"
+													},
+													{
+														"command": "open_file",
+														"args": {
+																"file": "${packages}/User/Default (Windows).sublime-keymap",
+																"platform": "Windows"
+														},
+														"caption": "按键绑定 – 用户"
+													},
+													{ "caption": "-" }
+											]
+									}
+							]
+						}
+				]
+		}
+]

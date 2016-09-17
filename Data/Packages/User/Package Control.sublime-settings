@@ -1,0 +1,32 @@
+{
+	"auto_upgrade": false,
+	"auto_upgrade_ignore":
+	[
+	],
+	"auto_upgrade_last_run": null,
+	"bootstrapped": true,
+	"installed_packages":
+	[
+		"Alignment",
+		"AutoFileName",
+		"BracketHighlighter",
+		"ClipboardHistory",
+		"CodeFormatter",
+		"ConvertToUTF8",
+		"Default",
+		"DocBlockr",
+		"Emmet",
+		"FileDiffs",
+		"Git",
+		"IMESupport",
+		"KeymapManager",
+		"Nil-Theme",
+		"Package Control",
+		"PyV8",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SyncedSidebarBg",
+		"ZZZ"
+	]
+}
