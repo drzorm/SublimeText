@@ -19,7 +19,7 @@
 
 	// If debugging information for HTTP/HTTPS connections should be printed
 	// to the Sublime Text console
-	"debug": false,
+	"debug": true,
 
 	// This helps solve naming issues where a repository it not named the
 	// same as the package should be. This is primarily only useful for
@@ -64,14 +64,14 @@
 	// since the system proxy configuration is utilized via WinINet. However,
 	// if WinINet is not working properly, this will be used by the Urllib
 	// downloader, which acts as a fallback.
-	"http_proxy": "",
+	"http_proxy": "http://127.0.0.1:8087/",
 	// An HTTPS proxy server to use for requests - this will inherit from
 	// http_proxy if it is set to "" or null and http_proxy has a value. You
 	// can set this to false to prevent inheriting from http_proxy. Not
 	// normally used on Windows since the system proxy configuration is
 	// utilized via WinINet. However, if WinINet is not working properly, this
 	// will be used by the Urllib downloader, which acts as a fallback.
-	"https_proxy": "",
+	"https_proxy": "http://127.0.0.1:8087/",
 
 	// Username and password for both http_proxy and https_proxy. May be used
 	// with WinINet to set credentials for system-level proxy config.

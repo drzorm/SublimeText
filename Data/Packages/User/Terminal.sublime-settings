@@ -1,0 +1,9 @@
+{
+    // "terminal": "C:\\WINDOWS\\system32\\cmd.exe",
+    "terminal": "C:\\Program Files\\cmder\\Cmder.exe",
+    "parameters": ["/START", "%CWD%"]
+    // "terminal": "C:\\Program Files\\Git\\bin\\sh.exe",
+    // "parameters": ["-c", "cd \"%CWD%\" && \"C:\\Program Files\\Git\\bin\\sh.exe\" -i -l"]
+    // "terminal": "C:\\Program Files\\Git\\git-bash.exe",
+    // "parameters": ["-c", "cd \"%CWD%\" && \"C:\\Program Files\\Git\\bin\\sh.exe\" -i -l"]
+}

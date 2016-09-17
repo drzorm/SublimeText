@@ -1,32 +1,37 @@
 {
-	"auto_upgrade": false,
-	"auto_upgrade_ignore":
-	[
-	],
 	"auto_upgrade_last_run": null,
 	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
-		"Alignment",
+		"AdvancedNewFile",
+		"All Autocomplete",
 		"AutoFileName",
+		"Autoprefixer",
 		"BracketHighlighter",
-		"ClipboardHistory",
-		"CodeFormatter",
 		"ConvertToUTF8",
-		"Default",
+		"CSSLint",
 		"DocBlockr",
 		"Emmet",
 		"FileDiffs",
-		"Git",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
 		"IMESupport",
-		"KeymapManager",
-		"Nil-Theme",
+		"JavaScript Completions",
+		"jQuery",
+		"JSHint",
+		"Nodejs",
 		"Package Control",
-		"PyV8",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
-		"SyncedSidebarBg",
-		"ZZZ"
+		"SublimeLinter-csslint",
+		"Terminal",
+		"Theme - Nil",
+		"TortoiseSVN",
+		"TypeScript",
+		"YUI Compressor"
 	]
 }

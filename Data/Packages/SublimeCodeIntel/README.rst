@@ -5,11 +5,7 @@ Code intelligence plugin ported from `Open Komodo Editor <http://www.openkomodo.
 
 Supports all the languages Komodo Editor supports for Code Intelligence (CIX, CodeIntel2):
 
-  ActionScript, Django, Docker, EJS, epMojo, HTML, KomodoSnippet, LaravelBlade,
-  Mason, Mustache, MXML, PHP, R, reStructuredText, RHTML, Smarty, TracWiki,
-  TemplateToolkit, Twig, XBL, XML, XSLT, XUL,
-  Python, Python3, Ruby, Perl, Go, JavaScript, Node.js, CSS, SCSS, Sass, Less,
-  HTML5, Tcl.
+    JavaScript, Mason, XBL, XUL, RHTML, SCSS, Python, HTML, Ruby, Python3, XML, Sass, XSLT, Django, HTML5, Perl, CSS, Twig, Less, Smarty, Node.js, Tcl, TemplateToolkit, PHP.
 
 Provides the following features:
 
@@ -82,10 +78,38 @@ It just works!
 
 Configuring
 -----------
-For adding additional library paths (django and extra libs paths for Python or
-extra paths to look for .js files for JavaScript for example), either add those
-paths as folders to your Sublime Text project, or modify SublimeCodeIntel
-User settings. User settings can be configured in the User File Settings:
+For adding additional library paths (django and extra libs paths for Python or extra paths to look for .js files for JavaScript for example), either add those paths as folders to your project, or create an optional codeintel configuration file in your home or in your project's root.
+
+Configuration files (``~/.codeintel/config`` or ``project_root/.codeintel/config``). All configurations are optional. Example::
+
+    {
+        "PHP": {
+            "php": '/usr/bin/php',
+            "phpExtraPaths": [],
+            "phpConfigFile": 'php.ini'
+        },
+        "JavaScript": {
+            "javascriptExtraPaths": []
+        },
+        "Perl": {
+            "perl": "/usr/bin/perl",
+            "perlExtraPaths": []
+        },
+        "Ruby": {
+            "ruby": "/usr/bin/ruby",
+            "rubyExtraPaths": []
+        },
+        "Python": {
+            "python": '/usr/bin/python',
+            "pythonExtraPaths": []
+        },
+        "Python3": {
+            "python": '/usr/bin/python3',
+            "pythonExtraPaths": []
+        }
+    }
+
+Additional settings can be configured in the User File Settings:
 
 Do NOT edit the default SublimeCodeIntel settings. Your changes will be lost when SublimeCodeIntel is updated. ALWAYS edit the user SublimeCodeIntel settings by selecting "Preferences->Package Settings->SublimeCodeIntel->Settings - User". Note that individual settings you include in your user settings will **completely** replace the corresponding default setting, so you must provide that setting in its entirety.
 
@@ -145,6 +169,14 @@ If the problems persists after trying the above solutions, open a new issue in h
 When opening new issues, please check no other issues exist which report the same problem and provide all the messages from the Sublime Text console (the console is accessed via the ``ctrl+``` shortcut or the ``View > Show Console`` menu) and the ``~/.codeintel/codeintel.log`` file (``%userprofile%\.codeintel\codeintel.log`` in Windows) as well as mentioning the Sublime Text version, the platform you are using and the languages you are using the code intelligence on.
 
 
+Building
+--------
+
+Building process is no longer distributed with this repository. You need to get SublimeCodeIntel/`CodeIntelSources <https://github.com/SublimeCodeIntel/CodeIntelSources/>`_ to run ``build.sh``.
+
+More information in SublimeCodeIntel/CodeIntelSources/`src <https://github.com/SublimeCodeIntel/CodeIntelSources/src>`_.
+
+
 Notes
 -----
 
@@ -165,7 +197,7 @@ sure you are ready for the upcoming version of SublimeCodeIntel:
 What's New
 ----------
 
-v3.0.0 (unreleased, beta):
+v3.0.0 (unreleased, alpha):
 
 + Uses CodeIntel as an OOP command and package.
   Needs to install CodeIntel with pip: `pip install codeintel`

@@ -1,0 +1,6 @@
+{
+    // "terminal": "C:\\WINDOWS\\system32\\cmd.exe",
+    // "terminal": "D:\\Program Files\\cmder\\Cmder.exe",
+    "terminal": "C:\\Program Files\\Git\\git-bash.exe",
+    "parameters": ["/START", "%CWD%"]
+}
