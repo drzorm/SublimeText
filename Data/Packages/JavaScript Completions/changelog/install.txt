@@ -1,0 +1,60 @@
+JavaScript Completions Package
+===============================
+
+How To USE
+==========
+
+To try it, just write.
+
+If you like this plugin, "Start" it on ---> https://github.com/pichillilorenzo/JavaScript-Completions <---
+
+
+"Find JavaScript Description" Feature
+=====================================
+
+-- Supported only by Sublime Text 3 --
+
+key-map of this feature disabled by default!
+
+You can check the description of function/property/method by selecting the word (or, in case, it will take the first word near the blinking cursor) you want find. 
+"right-click" on your mouse and click on "Find JavaScript Description".
+It will show a popup with the list of possible descriptions or, in some case, the direct description. 
+
+In case, you can also use "key-map"! Just go to Preferences -> Package Settings -> JavaScript Completions and enable it.
+
+
+"Evaluate JavaScript" Feature
+=============================
+
+-- Supported only by Sublime Text 3 --
+
+This feature uses node.js (v6.6.0) executable.
+You can change the node version on Preferences -> Package Settings -> Evaluate JavaScript settings
+
+It will download automaticaly the binary for your OS.
+A message will appear on the "status bar" of Sublime Text.
+
+context menu option of this feature disabled by default!
+key-map of this feature disabled by default!
+
+You can evaluate the entire text selection or the current line! 
+If you select a text region and evaluate it, in the gutter of the editor will appear 2 white dots.
+The first white dot represents the start of the region and the second white dot represents the end of the region.
+You can eventually modify the region and, without reselect the same region, you can evaluate it again! 
+If you want hide this 2 dots, there is an entry on the context menu "Evaluate JavaScript".
+
+When you evaluate code, this plugin will prepend "use strict"; automaticaly!
+
+There are two main mode to evaluate code:
+- eval, https://nodejs.org/dist/latest-v6.x/docs/api/cli.html#cli_e_eval_script
+- print, https://nodejs.org/dist/latest-v6.x/docs/api/cli.html#cli_p_print_script
+
+To enable this feature on context menu, go to Preferences -> Package Settings -> Evaluate JavaScript and enable it.
+In case, you can also use "key-map"! Just go to Preferences -> Package Settings -> Evaluate JavaScript and enable it.
+
+ENABLE or DISABLE completions
+=============================
+
+You can ENABLE or DISABLE completions! Just go to Preferences -> Package Settings -> JavaScript Completions
+
+MIT License

@@ -1,36 +1,147 @@
 {
 	"folder_history":
 	[
+		"/C/Program Files/Sublime Text 3",
+		"/F/gtihub/notes",
+		"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-app-1.0.0/community-web/src/main/webapp",
+		"/F/GitHub/notes",
+		"/F/works/shopping-web/src/main/web",
+		"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp",
+		"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/trunk/community/community-web/src/main/webapp",
+		"/F/works/estate-lottery"
 	],
 	"last_version": 3103,
-	"last_window_id": 1,
+	"last_window_id": 14,
 	"log_indexing": false,
 	"settings":
 	{
-	},
-	"windows":
-	[
+		"new_window_height": 802.0,
+		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"fonts",
+						"font-size"
+					],
+					[
+						"javascript",
+						"javascript:void"
+					],
+					[
+						"content",
+						"div.content"
+					],
+					[
+						"java",
+						"javascript:void"
+					],
+					[
+						"fo",
+						"focus	.focus()"
+					],
+					[
+						"tr",
+						"trigger	.trigger()"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"che",
+						"checked"
+					],
+					[
+						"house",
+						"houseId"
+					]
 				]
 			},
-			"buffers":
-			[
-			],
-			"build_system": "",
 			"build_system_choices":
 			[
+				[
+					[
+						[
+							"Packages/Nodejs/Nodejs.sublime-build",
+							""
+						],
+						[
+							"Packages/JSHint/JSHint.sublime-build",
+							""
+						],
+						[
+							"Packages/YUI Compressor/YUI Compressor.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/YUI Compressor/YUI Compressor.sublime-build",
+						""
+					]
+				]
 			],
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 392.0,
-				"last_filter": "remo",
+				"height": 311.0,
+				"last_filter": "git all",
 				"selected_items":
 				[
+					[
+						"git all",
+						"Git: Add All"
+					],
+					[
+						"gitadd",
+						"Git: Add All"
+					],
+					[
+						"git add",
+						"Git: Add All"
+					],
+					[
+						"git",
+						"Git: Add All"
+					],
+					[
+						"add",
+						"Git: Add All"
+					],
+					[
+						"add ",
+						"Git: Add All"
+					],
+					[
+						"json",
+						"Set Syntax: JSON"
+					],
+					[
+						"ena",
+						"Package Control: Enable Package"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"utf",
+						"ConvertToUTF8: Reload with Encoding"
+					],
+					[
+						"installp",
+						"Package Control: Install Package"
+					],
+					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
 					[
 						"remo",
 						"Package Control: Remove Package"
@@ -48,9 +159,13 @@
 			},
 			"console":
 			{
-				"height": 146.0,
+				"height": 172.0,
 				"history":
 				[
+					"8/40",
+					"30/40",
+					"168/40",
+					"1409/2/60"
 				]
 			},
 			"distraction_free":
@@ -64,6 +179,423 @@
 			},
 			"file_history":
 			[
+				"/C/Program Files/Sublime Text 3/.git/config",
+				"/C/Program Files/Sublime Text 3/Data/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/SublimeLinter/Default (Windows).sublime-keymap",
+				"/C/Program Files/Sublime Text 3/Data/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+				"/C/Program Files/Sublime Text 3/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Program Files/Sublime Text 3/Data/Packages/CSSLint/Default (Windows).sublime-keymap",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/SublimeLinter.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/BracketHighlighter/bh_core.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/bh_core.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/CSSLint/CSSLint.sublime-settings",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-app-1.0.0/community-web/src/main/webapp/content/demo/demo-empty.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-app-1.0.0/community-web/src/main/webapp/stylesheets/base - 副本.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-app-1.0.0/community-web/src/main/webapp/content/views/shop/index.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-app-1.0.0/community-web/src/main/webapp/content/views/shop/list.html",
+				"/C/Program Files/Sublime Text 3/Data/Packages/CodeFormatter/Default (Windows).sublime-keymap",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/demo/demo-sui.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/demo/demo-custom-sui.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/activity/activity_join.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/activity/activity_join.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/activity/activity_detail.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/activity/activity_detail.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/activity/activity_detail.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/sm&sm-extend.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/activity/activity_list.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/activity/activity_publish.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/hardware/device_management.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/lottery/index.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/repairs/dispatch_repair_order_detail.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/repairs/repair_order_detail.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/repairs/repair_order_list.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/talent/talent_detail.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/topic/topic_list.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/topic/topic_publish.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/user/activity_detail.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/user/activity_edit.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/topic/topic_detail.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/topic/topic_detail.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/topic/topic_list.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/user/topic_list.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/user/topic_list.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/user/activity_list.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/user/activity_list.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/common/smUtil.js",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Terminal.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/Terminal/Terminal.sublime-settings",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/demo/demo.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/demo.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/demo/custom-sui.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/topic/user_activity_list.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/login.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/login.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/hardware/device_list.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/hardware/device_list.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/hardware/device_management.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/hardware/device_management.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/hardware/device_list.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/hardware/device_list.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/base.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/fonts/demo.html",
+				"/C/Program Files/cmder/vendor/profile.ps1",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Side Bar.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/Git/Git.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Git.sublime-settings"
+			],
+			"find":
+			{
+				"height": 21.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					"F:\\works\\物业\\shequ\\03研发、上线、交付\\服务端\\01编码\\branches\\community-ui\\community-web\\src\\main\\webapp\\stylesheets"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"core.",
+					"0894ec",
+					"color-orange-f",
+					"di",
+					"rmb",
+					"content pb20",
+					"payment-list",
+					"follow-up",
+					"#",
+					"repairs_evaluate.html?id=123",
+					"complaint_evaluate.html?id=123",
+					"get.html?id=123",
+					"href=\"#\"",
+					"申请人",
+					".payment-list ",
+					" payment-list",
+					".payment-list ",
+					"payment-list",
+					"get.html?id=123",
+					"id",
+					".info-list ul li",
+					"<div class=\"item-title\">",
+					"rmb",
+					"coustom-button-confirm",
+					"评论",
+					".button.coustom-button-comment",
+					"eac500",
+					"#eac500",
+					"button:active",
+					"<-%= currentList.nickName %->",
+					"font-size: 0.8rem;",
+					"285c95",
+					"<-%= currentList.nickName %->",
+					"00bb9c",
+					"f97743",
+					"icon-coustom-tips",
+					"删除",
+					"f97743",
+					"ffa00a",
+					"45cb7f",
+					"最近开门时间:2016-06-06 11:11:11",
+					"icon-font-kaiguan",
+					".icon-font-",
+					"icon-font",
+					"%3C",
+					"node[i]",
+					"data-id",
+					"houseId",
+					"beforUrl",
+					"checkAddress"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"font-size: 0.7rem;"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"incremental_find":
+			{
+				"height": 21.0
+			},
+			"input":
+			{
+				"height": 29.0
+			},
+			"menu_visible": true,
+			"output.csslint_result_view":
+			{
+				"height": 161.0
+			},
+			"output.exec":
+			{
+				"height": 241.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 515.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 38.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"data/packages/user/terminal.sublime-settings",
+						"Data\\Packages\\User\\Terminal.sublime-settings"
+					],
+					[
+						"data/packages/user/sublimelinter/tubnilbright(sl).tmtheme",
+						"Data\\Packages\\User\\SublimeLinter\\Tubnil Bright (SL).tmTheme"
+					],
+					[
+						"base",
+						"stylesheets\\base.css"
+					],
+					[
+						"smc",
+						"javascripts\\common\\smConfig.js"
+					],
+					[
+						"javascripts/views/demo",
+						"javascripts\\views\\demo.js"
+					],
+					[
+						"smu",
+						"javascripts\\common\\smUtil.js"
+					],
+					[
+						"viewsactivity_detail",
+						"javascripts\\views\\activity\\activity_detail.js"
+					],
+					[
+						"stylesheets/views/activity/activity_join.css",
+						"stylesheets\\views\\activity\\activity_join.css"
+					],
+					[
+						"stylesheets/views/activity/activity_detail.css",
+						"stylesheets\\views\\activity\\activity_detail.css"
+					],
+					[
+						"viewstopic_detail",
+						"content\\views\\topic\\topic_detail.jsp"
+					],
+					[
+						"viewstopic",
+						"javascripts\\views\\topic\\topic_detail.js"
+					],
+					[
+						"viewstopic_list",
+						"javascripts\\views\\topic\\topic_list.js"
+					],
+					[
+						"viewstopic_de",
+						"javascripts\\views\\topic\\topic_detail.js"
+					],
+					[
+						"viewsuseractivitylist",
+						"content\\views\\user\\activity_list.jsp"
+					],
+					[
+						"useractivity_list",
+						"content\\topic\\user_activity_list.jsp"
+					],
+					[
+						"usertopic",
+						"stylesheets\\views\\user\\topic_list.css"
+					],
+					[
+						"stylesheets/views/user/topic_list.css",
+						"stylesheets\\views\\user\\topic_list.css"
+					],
+					[
+						"device_list.css",
+						"stylesheets\\views\\hardware\\device_list.css"
+					],
+					[
+						"javascripts/views/hardware/device_list",
+						"javascripts\\views\\hardware\\device_list.js"
+					],
+					[
+						"demo",
+						"fonts\\demo.html"
+					],
+					[
+						"stylesheets/views/hardware/device_list.css",
+						"stylesheets\\views\\hardware\\device_list.css"
+					],
+					[
+						"javascripts/views/login",
+						"javascripts\\views\\login.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 218.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1147.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/F/works/estate-lottery/javascripts/views/lottery/index.js",
+					"settings":
+					{
+						"buffer_size": 8970,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/F/works/estate-lottery/views/lottery/index.html",
+					"settings":
+					{
+						"buffer_size": 7656,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "Packages/YUI Compressor/YUI Compressor.sublime-build",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Nodejs/Nodejs.sublime-build",
+							""
+						],
+						[
+							"Packages/JSHint/JSHint.sublime-build",
+							""
+						],
+						[
+							"Packages/YUI Compressor/YUI Compressor.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/YUI Compressor/YUI Compressor.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "js",
+				"selected_items":
+				[
+					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"removep",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 449.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/F/works/estate-lottery",
+				"/F/works/estate-lottery/javascripts",
+				"/F/works/estate-lottery/javascripts/views",
+				"/F/works/estate-lottery/javascripts/views/lottery"
+			],
+			"file_history":
+			[
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Program Files/cmder/vendor/profile.ps1",
+				"/C/Program Files/Sublime Text 3/Data/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Side Bar.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/Git/Git.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Git.sublime-settings"
 			],
 			"find":
 			{
@@ -95,6 +627,768 @@
 				"whole_word": false,
 				"wrap": true
 			},
+			"folders":
+			[
+				{
+					"path": "F:\\works\\estate-lottery"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/F/works/estate-lottery/javascripts/views/lottery/index.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8970,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2599,
+										2599
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Tubnil Bright.tmTheme",
+									"is_init_dirty_state": false,
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 598.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/F/works/estate-lottery/views/lottery/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7656,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4390,
+										3732
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Tubnil Bright.tmTheme",
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 981.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 241.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,2,-32000,-32000,-1,-1,781,252,41,1081",
+			"project": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"lotteryindex",
+						"views\\lottery\\index.html"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 175.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"che",
+						"checked"
+					],
+					[
+						"house",
+						"houseId"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/F/works/shopping-web/src/main/web/js/common/smUtil.js",
+					"settings":
+					{
+						"buffer_size": 6178,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Nodejs/Nodejs.sublime-build",
+							""
+						],
+						[
+							"Packages/JSHint/JSHint.sublime-build",
+							""
+						],
+						[
+							"Packages/YUI Compressor/YUI Compressor.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/YUI Compressor/YUI Compressor.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "js",
+				"selected_items":
+				[
+					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"removep",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 449.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/F/works/shopping-web/src/main/web",
+				"/F/works/shopping-web/src/main/web/js",
+				"/F/works/shopping-web/src/main/web/js/common"
+			],
+			"file_history":
+			[
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Program Files/cmder/vendor/profile.ps1",
+				"/C/Program Files/Sublime Text 3/Data/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Side Bar.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/Git/Git.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Git.sublime-settings"
+			],
+			"find":
+			{
+				"height": 21.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"node[i]",
+					"data-id",
+					"houseId",
+					"beforUrl",
+					"checkAddress"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "F:\\works\\shopping-web\\src\\main\\web"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/F/works/shopping-web/src/main/web/js/common/smUtil.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6178,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										755,
+										755
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Tubnil Bright.tmTheme",
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 21.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 241.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,2,-32000,-32000,-1,-1,990,250,250,1079",
+			"project": "",
+			"replace":
+			{
+				"height": 38.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"javascripts/views/login",
+						"javascripts\\views\\login.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 175.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 6,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Nodejs/Nodejs.sublime-build",
+							""
+						],
+						[
+							"Packages/JSHint/JSHint.sublime-build",
+							""
+						],
+						[
+							"Packages/YUI Compressor/YUI Compressor.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/YUI Compressor/YUI Compressor.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "js",
+				"selected_items":
+				[
+					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"removep",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 449.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/trunk/community/community-web/src/main/webapp"
+			],
+			"file_history":
+			[
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Program Files/cmder/vendor/profile.ps1",
+				"/C/Program Files/Sublime Text 3/Data/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Side Bar.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/Git/Git.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Git.sublime-settings"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "F:\\works\\物业\\shequ\\03研发、上线、交付\\服务端\\01编码\\trunk\\community\\community-web\\src\\main\\webapp"
+				}
+			],
 			"groups":
 			[
 				{
@@ -134,12 +1428,16 @@
 				]
 			},
 			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 241.0
+			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-32000,-32000,-1,-1,690,387,91,1089",
+			"position": "0,0,2,-32000,-32000,-1,-1,865,125,125,954",
 			"project": "",
 			"replace":
 			{
@@ -181,12 +1479,5035 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 150.0,
+			"side_bar_width": 175.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 1,
+			"window_id": 3,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"javascript",
+						"javascript:void"
+					],
+					[
+						"content",
+						"div.content"
+					],
+					[
+						"java",
+						"javascript:void"
+					],
+					[
+						"fo",
+						"focus	.focus()"
+					],
+					[
+						"tr",
+						"trigger	.trigger()"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"che",
+						"checked"
+					],
+					[
+						"house",
+						"houseId"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/base.css",
+					"settings":
+					{
+						"buffer_size": 38849,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/demo/demo-custom-sui.html",
+					"settings":
+					{
+						"buffer_size": 25327,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/demo/demo-empty.html",
+					"settings":
+					{
+						"buffer_size": 1123,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/demo/demo-empty.js",
+					"settings":
+					{
+						"buffer_size": 177,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/demo/demo-iscroll.html",
+					"settings":
+					{
+						"buffer_size": 5250,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/demo/demo-sui.html",
+					"settings":
+					{
+						"buffer_size": 1119,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/demo/demo-ui.js",
+					"settings":
+					{
+						"buffer_size": 177,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/demo/demo.html",
+					"settings":
+					{
+						"buffer_size": 3550,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/demo/demo.js",
+					"settings":
+					{
+						"buffer_size": 562,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/common/smConfig.js",
+					"settings":
+					{
+						"buffer_size": 424,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "require(['sm', 'smUtil', 'artTemplate'],\n    function ($, smUtil, template) {\n\n        var request = smUtil.request;\n\n\n        // 初始化,通常是在业务页面代码的最后执行\n        $.init();\n\n    });\n",
+					"file": "/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/demo-custom-sui.js",
+					"file_size": 223,
+					"file_write_time": 131186660609943125,
+					"settings":
+					{
+						"buffer_size": 177,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Nodejs/Nodejs.sublime-build",
+							""
+						],
+						[
+							"Packages/JSHint/JSHint.sublime-build",
+							""
+						],
+						[
+							"Packages/YUI Compressor/YUI Compressor.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/YUI Compressor/YUI Compressor.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "utf",
+				"selected_items":
+				[
+					[
+						"utf",
+						"ConvertToUTF8: Reload with Encoding"
+					],
+					[
+						"installp",
+						"Package Control: Install Package"
+					],
+					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"removep",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 449.0,
+				"history":
+				[
+					"1409/2/60"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/demo",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views"
+			],
+			"file_history":
+			[
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/demo-empty.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/demo/demo-custom-sui.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/activity/activity_join.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/activity/activity_join.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/activity/activity_detail.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/activity/activity_detail.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/activity/activity_detail.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/sm&sm-extend.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/activity/activity_list.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/activity/activity_publish.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/hardware/device_management.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/lottery/index.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/repairs/dispatch_repair_order_detail.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/repairs/repair_order_detail.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/repairs/repair_order_list.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/talent/talent_detail.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/topic/topic_list.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/topic/topic_publish.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/user/activity_detail.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/user/activity_edit.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/topic/topic_detail.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/topic/topic_detail.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/topic/topic_list.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/user/topic_list.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/user/topic_list.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/user/activity_list.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/user/activity_list.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/common/smUtil.js",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Terminal.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/Terminal/Terminal.sublime-settings",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/demo/demo.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/demo.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/demo/custom-sui.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/topic/user_activity_list.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/login.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/login.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/hardware/device_list.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/hardware/device_list.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/hardware/device_management.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/hardware/device_management.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/hardware/device_list.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/hardware/device_list.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/base.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/fonts/demo.html",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Program Files/cmder/vendor/profile.ps1",
+				"/C/Program Files/Sublime Text 3/Data/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Side Bar.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/Git/Git.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Git.sublime-settings"
+			],
+			"find":
+			{
+				"height": 21.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					"F:\\works\\物业\\shequ\\03研发、上线、交付\\服务端\\01编码\\branches\\community-ui\\community-web\\src\\main\\webapp\\stylesheets"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"content pb20",
+					"payment-list",
+					"follow-up",
+					"#",
+					"repairs_evaluate.html?id=123",
+					"complaint_evaluate.html?id=123",
+					"get.html?id=123",
+					"href=\"#\"",
+					"申请人",
+					".payment-list ",
+					" payment-list",
+					".payment-list ",
+					"payment-list",
+					"get.html?id=123",
+					"id",
+					".info-list ul li",
+					"<div class=\"item-title\">",
+					"rmb",
+					"coustom-button-confirm",
+					"评论",
+					".button.coustom-button-comment",
+					"eac500",
+					"#eac500",
+					"button:active",
+					"<-%= currentList.nickName %->",
+					"font-size: 0.8rem;",
+					"285c95",
+					"<-%= currentList.nickName %->",
+					"00bb9c",
+					"f97743",
+					"icon-coustom-tips",
+					"删除",
+					"f97743",
+					"ffa00a",
+					"45cb7f",
+					"最近开门时间:2016-06-06 11:11:11",
+					"icon-font-kaiguan",
+					".icon-font-",
+					"icon-font",
+					"%3C",
+					"node[i]",
+					"data-id",
+					"houseId",
+					"beforUrl",
+					"checkAddress"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"font-size: 0.7rem;"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"folders":
+			[
+				{
+					"path": "F:\\works\\物业\\shequ\\03研发、上线、交付\\服务端\\01编码\\branches\\community-ui\\community-web\\src\\main\\webapp"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/base.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 38849,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										37682,
+										37682
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Tubnil Bright.tmTheme",
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/CSS/CSS.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1196.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/demo/demo-custom-sui.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 25327,
+								"regions":
+								{
+									"bookmarks":
+									{
+										"flags": 144,
+										"icon": "bookmark",
+										"regions":
+										[
+											[
+												2779,
+												2779
+											],
+											[
+												4491,
+												4491
+											]
+										],
+										"scope": "bookmarks"
+									}
+								},
+								"selection":
+								[
+									[
+										22955,
+										22955
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": false,
+									"bh_regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Tubnil Bright (SL).tmTheme",
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 6466.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/demo/demo-empty.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1123,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1068,
+										1035
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": false,
+									"bh_regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Tubnil Bright.tmTheme",
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/demo/demo-empty.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 177,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										177,
+										0
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Tubnil Bright (SL).tmTheme",
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/demo/demo-iscroll.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5250,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Tubnil Bright (SL).tmTheme",
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1306.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/demo/demo-sui.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1119,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1064,
+										1034
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": false,
+									"bh_regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Tubnil Bright (SL).tmTheme",
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/demo/demo-ui.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 177,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										177,
+										177
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"_anf_new": "",
+									"auto_complete": false,
+									"bh_regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Tubnil Bright (SL).tmTheme",
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/demo/demo.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3550,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3495,
+										3468
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": false,
+									"bh_regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Tubnil Bright (SL).tmTheme",
+									"is_init_dirty_state": false,
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 409.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/demo/demo.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 562,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Tubnil Bright (SL).tmTheme",
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/common/smConfig.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 424,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										107,
+										107
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Tubnil Bright.tmTheme",
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/demo-custom-sui.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 177,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										177,
+										177
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"_anf_new": "",
+									"auto_complete": false,
+									"bh_regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Tubnil Bright.tmTheme",
+									"is_init_dirty_state": true,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 10,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 21.0
+			},
+			"input":
+			{
+				"height": 29.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 241.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,2,-32000,-32000,-1,-1,886,643,146,1840",
+			"project": "",
+			"replace":
+			{
+				"height": 38.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"smc",
+						"javascripts\\common\\smConfig.js"
+					],
+					[
+						"javascripts/views/demo",
+						"javascripts\\views\\demo.js"
+					],
+					[
+						"smu",
+						"javascripts\\common\\smUtil.js"
+					],
+					[
+						"viewsactivity_detail",
+						"javascripts\\views\\activity\\activity_detail.js"
+					],
+					[
+						"stylesheets/views/activity/activity_join.css",
+						"stylesheets\\views\\activity\\activity_join.css"
+					],
+					[
+						"stylesheets/views/activity/activity_detail.css",
+						"stylesheets\\views\\activity\\activity_detail.css"
+					],
+					[
+						"viewstopic_detail",
+						"content\\views\\topic\\topic_detail.jsp"
+					],
+					[
+						"viewstopic",
+						"javascripts\\views\\topic\\topic_detail.js"
+					],
+					[
+						"viewstopic_list",
+						"javascripts\\views\\topic\\topic_list.js"
+					],
+					[
+						"viewstopic_de",
+						"javascripts\\views\\topic\\topic_detail.js"
+					],
+					[
+						"viewsuseractivitylist",
+						"content\\views\\user\\activity_list.jsp"
+					],
+					[
+						"useractivity_list",
+						"content\\topic\\user_activity_list.jsp"
+					],
+					[
+						"usertopic",
+						"stylesheets\\views\\user\\topic_list.css"
+					],
+					[
+						"stylesheets/views/user/topic_list.css",
+						"stylesheets\\views\\user\\topic_list.css"
+					],
+					[
+						"base",
+						"stylesheets\\base.css"
+					],
+					[
+						"device_list.css",
+						"stylesheets\\views\\hardware\\device_list.css"
+					],
+					[
+						"javascripts/views/hardware/device_list",
+						"javascripts\\views\\hardware\\device_list.js"
+					],
+					[
+						"demo",
+						"fonts\\demo.html"
+					],
+					[
+						"stylesheets/views/hardware/device_list.css",
+						"stylesheets\\views\\hardware\\device_list.css"
+					],
+					[
+						"javascripts/views/login",
+						"javascripts\\views\\login.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 223.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 4,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"fonts",
+						"font-size"
+					],
+					[
+						"javascript",
+						"javascript:void"
+					],
+					[
+						"content",
+						"div.content"
+					],
+					[
+						"java",
+						"javascript:void"
+					],
+					[
+						"fo",
+						"focus	.focus()"
+					],
+					[
+						"tr",
+						"trigger	.trigger()"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"che",
+						"checked"
+					],
+					[
+						"house",
+						"houseId"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-app-1.0.0/community-web/src/main/webapp/stylesheets/base.css",
+					"settings":
+					{
+						"buffer_size": 40615,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-app-1.0.0/community-web/src/main/webapp/content/views/shop/list.html",
+					"settings":
+					{
+						"buffer_size": 3257,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-app-1.0.0/community-web/src/main/webapp/fonts/iconfont.css",
+					"settings":
+					{
+						"buffer_size": 4843,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Nodejs/Nodejs.sublime-build",
+							""
+						],
+						[
+							"Packages/JSHint/JSHint.sublime-build",
+							""
+						],
+						[
+							"Packages/YUI Compressor/YUI Compressor.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/YUI Compressor/YUI Compressor.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 104.0,
+				"last_filter": "json",
+				"selected_items":
+				[
+					[
+						"json",
+						"Set Syntax: JSON"
+					],
+					[
+						"ena",
+						"Package Control: Enable Package"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"utf",
+						"ConvertToUTF8: Reload with Encoding"
+					],
+					[
+						"installp",
+						"Package Control: Install Package"
+					],
+					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"removep",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 464.0
+			},
+			"console":
+			{
+				"height": 172.0,
+				"history":
+				[
+					"8/40",
+					"30/40",
+					"168/40",
+					"1409/2/60"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-app-1.0.0/community-web/src/main/webapp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-app-1.0.0/community-web/src/main/webapp/content",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-app-1.0.0/community-web/src/main/webapp/content/demo",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-app-1.0.0/community-web/src/main/webapp/content/views",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-app-1.0.0/community-web/src/main/webapp/content/views/shop",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-app-1.0.0/community-web/src/main/webapp/fonts"
+			],
+			"file_history":
+			[
+				"/C/Program Files/Sublime Text 3/Data/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/SublimeLinter/Default (Windows).sublime-keymap",
+				"/C/Program Files/Sublime Text 3/Data/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+				"/C/Program Files/Sublime Text 3/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Program Files/Sublime Text 3/Data/Packages/CSSLint/Default (Windows).sublime-keymap",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/SublimeLinter.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/BracketHighlighter/bh_core.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/bh_core.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/CSSLint/CSSLint.sublime-settings",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-app-1.0.0/community-web/src/main/webapp/content/demo/demo-empty.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-app-1.0.0/community-web/src/main/webapp/stylesheets/base - 副本.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-app-1.0.0/community-web/src/main/webapp/content/views/shop/index.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-app-1.0.0/community-web/src/main/webapp/content/views/shop/list.html",
+				"/C/Program Files/Sublime Text 3/Data/Packages/CodeFormatter/Default (Windows).sublime-keymap",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/demo/demo-sui.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/demo/demo-custom-sui.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/activity/activity_join.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/activity/activity_join.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/activity/activity_detail.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/activity/activity_detail.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/activity/activity_detail.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/sm&sm-extend.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/activity/activity_list.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/activity/activity_publish.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/hardware/device_management.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/lottery/index.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/repairs/dispatch_repair_order_detail.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/repairs/repair_order_detail.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/repairs/repair_order_list.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/talent/talent_detail.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/topic/topic_list.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/topic/topic_publish.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/user/activity_detail.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/user/activity_edit.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/topic/topic_detail.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/topic/topic_detail.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/topic/topic_list.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/user/topic_list.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/user/topic_list.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/user/activity_list.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/user/activity_list.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/common/smUtil.js",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Terminal.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/Terminal/Terminal.sublime-settings",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/demo/demo.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/demo.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/demo/custom-sui.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/topic/user_activity_list.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/login.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/login.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/hardware/device_list.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/hardware/device_list.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/hardware/device_management.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/hardware/device_management.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/hardware/device_list.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/hardware/device_list.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/base.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/fonts/demo.html",
+				"/C/Program Files/cmder/vendor/profile.ps1",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Side Bar.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/Git/Git.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Git.sublime-settings"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					"F:\\works\\物业\\shequ\\03研发、上线、交付\\服务端\\01编码\\branches\\community-ui\\community-web\\src\\main\\webapp\\stylesheets"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"0894ec",
+					"color-orange-f",
+					"di",
+					"rmb",
+					"content pb20",
+					"payment-list",
+					"follow-up",
+					"#",
+					"repairs_evaluate.html?id=123",
+					"complaint_evaluate.html?id=123",
+					"get.html?id=123",
+					"href=\"#\"",
+					"申请人",
+					".payment-list ",
+					" payment-list",
+					".payment-list ",
+					"payment-list",
+					"get.html?id=123",
+					"id",
+					".info-list ul li",
+					"<div class=\"item-title\">",
+					"rmb",
+					"coustom-button-confirm",
+					"评论",
+					".button.coustom-button-comment",
+					"eac500",
+					"#eac500",
+					"button:active",
+					"<-%= currentList.nickName %->",
+					"font-size: 0.8rem;",
+					"285c95",
+					"<-%= currentList.nickName %->",
+					"00bb9c",
+					"f97743",
+					"icon-coustom-tips",
+					"删除",
+					"f97743",
+					"ffa00a",
+					"45cb7f",
+					"最近开门时间:2016-06-06 11:11:11",
+					"icon-font-kaiguan",
+					".icon-font-",
+					"icon-font",
+					"%3C",
+					"node[i]",
+					"data-id",
+					"houseId",
+					"beforUrl",
+					"checkAddress"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"font-size: 0.7rem;"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"folders":
+			[
+				{
+					"path": "F:\\works\\物业\\shequ\\03研发、上线、交付\\服务端\\01编码\\branches\\community-app-1.0.0\\community-web\\src\\main\\webapp"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-app-1.0.0/community-web/src/main/webapp/stylesheets/base.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 40615,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										40183,
+										40183
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												40184,
+												40185
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												39963,
+												39964
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Tubnil Bright (SL).tmTheme",
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/CSS/CSS.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 20836.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-app-1.0.0/community-web/src/main/webapp/content/views/shop/list.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3257,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										543,
+										543
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": false,
+									"bh_regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												489,
+												493
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/tag.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												489,
+												493
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Tubnil Bright (SL).tmTheme",
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-app-1.0.0/community-web/src/main/webapp/fonts/iconfont.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4843,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										458,
+										458
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												639,
+												640
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												448,
+												449
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Tubnil Bright (SL).tmTheme",
+									"is_init_dirty_state": false,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/CSS/CSS.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 21.0
+			},
+			"input":
+			{
+				"height": 29.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.csslint_result_view":
+			{
+				"height": 161.0
+			},
+			"output.exec":
+			{
+				"height": 241.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,2,-32000,-32000,-1,-1,954,103,94,1266",
+			"project": "",
+			"replace":
+			{
+				"height": 38.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"base",
+						"stylesheets\\base.css"
+					],
+					[
+						"smc",
+						"javascripts\\common\\smConfig.js"
+					],
+					[
+						"javascripts/views/demo",
+						"javascripts\\views\\demo.js"
+					],
+					[
+						"smu",
+						"javascripts\\common\\smUtil.js"
+					],
+					[
+						"viewsactivity_detail",
+						"javascripts\\views\\activity\\activity_detail.js"
+					],
+					[
+						"stylesheets/views/activity/activity_join.css",
+						"stylesheets\\views\\activity\\activity_join.css"
+					],
+					[
+						"stylesheets/views/activity/activity_detail.css",
+						"stylesheets\\views\\activity\\activity_detail.css"
+					],
+					[
+						"viewstopic_detail",
+						"content\\views\\topic\\topic_detail.jsp"
+					],
+					[
+						"viewstopic",
+						"javascripts\\views\\topic\\topic_detail.js"
+					],
+					[
+						"viewstopic_list",
+						"javascripts\\views\\topic\\topic_list.js"
+					],
+					[
+						"viewstopic_de",
+						"javascripts\\views\\topic\\topic_detail.js"
+					],
+					[
+						"viewsuseractivitylist",
+						"content\\views\\user\\activity_list.jsp"
+					],
+					[
+						"useractivity_list",
+						"content\\topic\\user_activity_list.jsp"
+					],
+					[
+						"usertopic",
+						"stylesheets\\views\\user\\topic_list.css"
+					],
+					[
+						"stylesheets/views/user/topic_list.css",
+						"stylesheets\\views\\user\\topic_list.css"
+					],
+					[
+						"device_list.css",
+						"stylesheets\\views\\hardware\\device_list.css"
+					],
+					[
+						"javascripts/views/hardware/device_list",
+						"javascripts\\views\\hardware\\device_list.js"
+					],
+					[
+						"demo",
+						"fonts\\demo.html"
+					],
+					[
+						"stylesheets/views/hardware/device_list.css",
+						"stylesheets\\views\\hardware\\device_list.css"
+					],
+					[
+						"javascripts/views/login",
+						"javascripts\\views\\login.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 218.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 11,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"html",
+						"html5	Simple HTML5 Boilerplate"
+					],
+					[
+						"fonts",
+						"font-size"
+					],
+					[
+						"javascript",
+						"javascript:void"
+					],
+					[
+						"content",
+						"div.content"
+					],
+					[
+						"java",
+						"javascript:void"
+					],
+					[
+						"fo",
+						"focus	.focus()"
+					],
+					[
+						"tr",
+						"trigger	.trigger()"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"che",
+						"checked"
+					],
+					[
+						"house",
+						"houseId"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/F/gtihub/notes/css/README.md",
+					"settings":
+					{
+						"buffer_size": 1892,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "Packages/PowerShell/Support/Powershell.sublime-build",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Nodejs/Nodejs.sublime-build",
+							""
+						],
+						[
+							"Packages/JSHint/JSHint.sublime-build",
+							""
+						],
+						[
+							"Packages/YUI Compressor/YUI Compressor.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/YUI Compressor/YUI Compressor.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/PowerShell/Support/Powershell.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/PowerShell/Support/Powershell.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 150.0,
+				"last_filter": "remove",
+				"selected_items":
+				[
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"rep",
+						"SublimeREPL: PowerShell"
+					],
+					[
+						"replps",
+						"SublimeREPL: PowerShell"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"di",
+						"Package Control: Disable Package"
+					],
+					[
+						"en",
+						"Package Control: Enable Package"
+					],
+					[
+						"repl",
+						"SublimeREPL: PowerShell"
+					],
+					[
+						"isntall",
+						"Package Control: Install Package"
+					],
+					[
+						"s html",
+						"Set Syntax: HTML"
+					],
+					[
+						"emmet",
+						"Set Syntax: Emmet"
+					],
+					[
+						"enp",
+						"Package Control: Enable Package"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings - Default"
+					],
+					[
+						"disap",
+						"Package Control: Disable Package"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"disa",
+						"Package Control: Disable Package"
+					],
+					[
+						"ena",
+						"Package Control: Enable Package"
+					],
+					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"git",
+						"Git: Pull"
+					],
+					[
+						"utf",
+						"ConvertToUTF8: Reload with Encoding"
+					],
+					[
+						"installp",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"removep",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 294.0,
+				"history":
+				[
+					"8/40",
+					"30/40",
+					"168/40",
+					"1409/2/60"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/F/gtihub/notes",
+				"/F/gtihub/notes/css",
+				"/F/gtihub/notes/md"
+			],
+			"file_history":
+			[
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/ColorHighlighter.sublime-settings",
+				"/F/gtihub/notes/.git/config",
+				"/C/Program Files/Sublime Text 3/Data/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/Package Control/Package Control.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Side Bar.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/F/gtihub/notes/test.js",
+				"/F/gtihub/notes/test.html",
+				"/C/Program Files/Sublime Text 3/Data/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Program Files/Sublime Text 3/Data/Packages/JavaScript Completions/javascript_completions/JavaScript-Completions.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/AutoFileName/autofilename.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/JavaScript Completions/Default (Windows).sublime-keymap",
+				"/C/Program Files/Sublime Text 3/Data/Packages/Emmet/Default (Windows).sublime-keymap",
+				"/C/Program Files/Sublime Text 3/Data/Packages/Emmet/Emmet.sublime-settings",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-app-1.0.0/community-web/src/main/webapp/content/demo/demo-empty.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-app-1.0.0/community-web/src/main/webapp/stylesheets/base - 副本.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-app-1.0.0/community-web/src/main/webapp/content/views/shop/index.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-app-1.0.0/community-web/src/main/webapp/content/views/shop/list.html",
+				"/C/Program Files/Sublime Text 3/Data/Packages/CodeFormatter/Default (Windows).sublime-keymap",
+				"/C/Program Files/Sublime Text 3/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/demo/demo-sui.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/demo/demo-custom-sui.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/activity/activity_join.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/activity/activity_join.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/activity/activity_detail.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/activity/activity_detail.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/activity/activity_detail.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/sm&sm-extend.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/activity/activity_list.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/activity/activity_publish.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/hardware/device_management.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/lottery/index.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/repairs/dispatch_repair_order_detail.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/repairs/repair_order_detail.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/repairs/repair_order_list.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/talent/talent_detail.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/topic/topic_list.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/topic/topic_publish.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/user/activity_detail.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/user/activity_edit.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/topic/topic_detail.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/topic/topic_detail.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/topic/topic_list.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/user/topic_list.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/user/topic_list.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/user/activity_list.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/user/activity_list.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/common/smUtil.js",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Terminal.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/Terminal/Terminal.sublime-settings",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/demo/demo.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/demo.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/demo/custom-sui.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/topic/user_activity_list.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/login.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/login.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/hardware/device_list.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/hardware/device_list.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/hardware/device_management.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/hardware/device_management.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/hardware/device_list.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/hardware/device_list.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/base.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/fonts/demo.html",
+				"/C/Program Files/cmder/vendor/profile.ps1",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/Git/Git.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Git.sublime-settings"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					"F:\\works\\物业\\shequ\\03研发、上线、交付\\服务端\\01编码\\branches\\community-ui\\community-web\\src\\main\\webapp\\stylesheets"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"// ",
+					"expand_abbreviation_by_tab",
+					"tab",
+					"emmet",
+					"tab",
+					"0894ec",
+					"color-orange-f",
+					"di",
+					"rmb",
+					"content pb20",
+					"payment-list",
+					"follow-up",
+					"#",
+					"repairs_evaluate.html?id=123",
+					"complaint_evaluate.html?id=123",
+					"get.html?id=123",
+					"href=\"#\"",
+					"申请人",
+					".payment-list ",
+					" payment-list",
+					".payment-list ",
+					"payment-list",
+					"get.html?id=123",
+					"id",
+					".info-list ul li",
+					"<div class=\"item-title\">",
+					"rmb",
+					"coustom-button-confirm",
+					"评论",
+					".button.coustom-button-comment",
+					"eac500",
+					"#eac500",
+					"button:active",
+					"<-%= currentList.nickName %->",
+					"font-size: 0.8rem;",
+					"285c95",
+					"<-%= currentList.nickName %->",
+					"00bb9c",
+					"f97743",
+					"icon-coustom-tips",
+					"删除",
+					"f97743",
+					"ffa00a",
+					"45cb7f",
+					"最近开门时间:2016-06-06 11:11:11",
+					"icon-font-kaiguan",
+					".icon-font-",
+					"icon-font",
+					"%3C",
+					"node[i]",
+					"data-id",
+					"houseId",
+					"beforUrl",
+					"checkAddress"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"font-size: 0.7rem;"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"folders":
+			[
+				{
+					"path": "F:\\gtihub\\notes"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/F/gtihub/notes/css/README.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1892,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										295,
+										295
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": false,
+									"bh_regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												440,
+												441
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												294,
+												295
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Tubnil Bright (SL).tmTheme",
+									"is_init_dirty_state": false,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 21.0
+			},
+			"input":
+			{
+				"height": 29.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 241.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 88.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,2,-32000,-32000,-1,-1,817,60,62,1093",
+			"project": "",
+			"replace":
+			{
+				"height": 38.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"base",
+						"stylesheets\\base.css"
+					],
+					[
+						"smc",
+						"javascripts\\common\\smConfig.js"
+					],
+					[
+						"javascripts/views/demo",
+						"javascripts\\views\\demo.js"
+					],
+					[
+						"smu",
+						"javascripts\\common\\smUtil.js"
+					],
+					[
+						"viewsactivity_detail",
+						"javascripts\\views\\activity\\activity_detail.js"
+					],
+					[
+						"stylesheets/views/activity/activity_join.css",
+						"stylesheets\\views\\activity\\activity_join.css"
+					],
+					[
+						"stylesheets/views/activity/activity_detail.css",
+						"stylesheets\\views\\activity\\activity_detail.css"
+					],
+					[
+						"viewstopic_detail",
+						"content\\views\\topic\\topic_detail.jsp"
+					],
+					[
+						"viewstopic",
+						"javascripts\\views\\topic\\topic_detail.js"
+					],
+					[
+						"viewstopic_list",
+						"javascripts\\views\\topic\\topic_list.js"
+					],
+					[
+						"viewstopic_de",
+						"javascripts\\views\\topic\\topic_detail.js"
+					],
+					[
+						"viewsuseractivitylist",
+						"content\\views\\user\\activity_list.jsp"
+					],
+					[
+						"useractivity_list",
+						"content\\topic\\user_activity_list.jsp"
+					],
+					[
+						"usertopic",
+						"stylesheets\\views\\user\\topic_list.css"
+					],
+					[
+						"stylesheets/views/user/topic_list.css",
+						"stylesheets\\views\\user\\topic_list.css"
+					],
+					[
+						"device_list.css",
+						"stylesheets\\views\\hardware\\device_list.css"
+					],
+					[
+						"javascripts/views/hardware/device_list",
+						"javascripts\\views\\hardware\\device_list.js"
+					],
+					[
+						"demo",
+						"fonts\\demo.html"
+					],
+					[
+						"stylesheets/views/hardware/device_list.css",
+						"stylesheets\\views\\hardware\\device_list.css"
+					],
+					[
+						"javascripts/views/login",
+						"javascripts\\views\\login.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 218.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 12,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"fonts",
+						"font-size"
+					],
+					[
+						"javascript",
+						"javascript:void"
+					],
+					[
+						"content",
+						"div.content"
+					],
+					[
+						"java",
+						"javascript:void"
+					],
+					[
+						"fo",
+						"focus	.focus()"
+					],
+					[
+						"tr",
+						"trigger	.trigger()"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"che",
+						"checked"
+					],
+					[
+						"house",
+						"houseId"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "\nSublime Text - 性感的代码编辑器、程序员之必备神器\n\nSublime Text 是一个代码编辑器，也是HTML和散文先进的文本编辑器。Sublime Text 具有漂亮的用户界面和强大的功能，例如代码缩略图，Python的插件，代码段等。还可自定义键绑定，菜单和工具栏。Sublime Text 的主要功能包括：拼写检查，书签，完整的 Python API ， Goto 功能，即时项目切换，多选择，多窗口等等。Sublime Text 是一个跨平台的编辑器，同时支持Windows、Linux、Mac OS X等操作系统。\n\n优化说明：\n1、基于官方版进行全网最完美汉化，基本上没什么英文了。\n2、已默认注册软件无需购买，有钱的程序员可以支持正版。\n3、去除程序自动检测升级，即无更新选项也没有升级提示。\n4、调整字体大小自动换行等细节，以符合大众的使用习惯。\n5、修正中文输入法鼠标跟随问题，深度整合GBK编码插件。\n6、修改多处菜单选项和配置文件，使其更加实用更人性化。\n7、集成多种常用插件其详细如下（不需要的请自行删除）\n(1)Alignment: 代码对齐插件，即\"=\"号对齐，变量定义太多，长短不一，可一键对齐，默认快捷键Ctrl+Alt+A可能和QQ截屏功能冲突，可设置其他快捷键如：Ctrl+Shift+Alt+A\n(2)AutoFileName: 快捷输入文件名插件，自动完成文件名的输入，如图片选取，输入\"/\"即可看到相对于本项目文件夹的其他文件。\n(3)BracketHighlighter: 代码匹配插件，可匹配[], (), {}, “”, ”, <tag></tag>，高亮标记，便于查看起始和结束标记，点击对应代码即可。\n(4)ClipboardHistory: 剪切板历史记录插件，方便使用复制/剪切的内容，Ctrl+alt+v：显示历史记录，Ctrl+alt+d：清空历史记录，Ctrl+shift+v：粘贴上一条记录（最旧），Ctrl+shift+alt+v：粘贴下一条记录（最新）\n(5)CodeFormatter: 代码格式化插件，支持PHP、JavaScript/JSON、HTML、CSS/SCSS、Python、Visual Basic、Coldfusion/Railo/Lucee等等。\n(6)ConvertToUTF8: 编辑并保存目前编码不被 Sublime Text 支持的文件，特别是中日韩用户使用的GB2312，GBK，BIG5，EUC-KR，EUC-JP ，ANSI等。\n(7)DocBlockr: 代码注释插件，标准的注释，包括函数名、参数、返回值等，并以多行显示，省去手动编写。\n(8)Emmet: HTML/CSS代码快速编写插件，对于前端来说，可是必备插件。\n(9)FileDiffs: 强大的比较代码不同工具，比较当前文件与选中的代码、剪切板中代码、另一文件、未保存文件之间的差别，右键标签页，出现FileDiffs Menu或者Diff with Tab…选择对应文件比较即可。\n(10)Git: Git管理插件，基本上实现了Git的所有功能。\n(11)IMESupport: 实现中文输入法鼠标跟随插件。\n(12)KeymapManager: 快捷键管理插件，通过Ctrl+alt+k或者通过顶部菜单“查看 -> 快捷键管理”打开面板。\n(13)PackageControl: 插件管理插件，提供添加、删除、禁用、查找插件等功能。\n(14)SideBarEnhancements: 侧边栏右键增强插件，可以自定义打开方式快捷键，非常实用。\n(15)SublimeCodeIntel: 代码自动提示插件，支持绝大多数前端开发语言。\n(16)SublimeLinter: 代码语法检测插件，支持C/C++、CSS、HTML、Java、JavaScript、Lua、Perl、PHP、Python、Ruby、XML等等。\n(17)SyncedSidebarBg: 侧边栏与主题颜色同步更新插件，自动同步侧边栏底色为编辑窗口底色。\n(18)Theme-Nil: 完美的编码主题，用过的都说很好。\n\n更新历史：\n【2013.09.14】Sublime Text 3 Build3047 优化版\n【2014.01.05】Sublime Text 3 Build3059 优化版\n【2014.09.07】Sublime Text 3 Build3065 优化版\n【2015.04.14】Sublime Text 3 Build3083 优化版\n【2015.04.28】Sublime Text 3 Build3084 优化版\n【2015.05.14】Sublime Text 3 Build3086 优化版\n【2015.05.30】Sublime Text 3 Build3088 优化版\n【2015.06.08】Sublime Text 3 Build3092 优化版\n【2015.07.15】Sublime Text 3 Build3095 优化版\n【2016.02.26】Sublime Text 3 Build3103 优化版\n\n免责声明：\n本软件仅供学习交流使用，请在下载后 24 小时之内删除。\n本人不承担任何法律责任，且最终解释权归流风清音所有。\n如果您使用本软件进行任何涉及商业盈利目的的行为，产生的一切后果将由您自己承担。\n为了保障您的利益，请支持正版软件。一旦开始使用本软件，即说明你已同意上述条例。\n若发现任何问题，请及时与我联系，感谢您使用由流风清音提供的SublimeText优化版。\n\n欢迎关注，流风清音：http://haojian138.blog.163.com\n",
+					"file": "/C/Program Files/Sublime Text 3/ReadMe.txt",
+					"file_size": 3611,
+					"file_write_time": 131009622795501101,
+					"settings":
+					{
+						"buffer_size": 2387,
+						"line_ending": "Windows",
+						"scratch": true
+					}
+				},
+				{
+					"file": "/C/Program Files/Sublime Text 3/Data/Packages/User/Terminal.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 453,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Program Files/Sublime Text 3/Data/Packages/User/SublimeLinter/Tubnil Bright (SL).tmTheme",
+					"settings":
+					{
+						"buffer_size": 11167,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Program Files/Sublime Text 3/.git/config",
+					"settings":
+					{
+						"buffer_size": 365,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Nodejs/Nodejs.sublime-build",
+							""
+						],
+						[
+							"Packages/JSHint/JSHint.sublime-build",
+							""
+						],
+						[
+							"Packages/YUI Compressor/YUI Compressor.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/YUI Compressor/YUI Compressor.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 311.0,
+				"last_filter": "git all",
+				"selected_items":
+				[
+					[
+						"git all",
+						"Git: Add All"
+					],
+					[
+						"gitadd",
+						"Git: Add All"
+					],
+					[
+						"git add",
+						"Git: Add All"
+					],
+					[
+						"git",
+						"Git: Add All"
+					],
+					[
+						"add",
+						"Git: Add All"
+					],
+					[
+						"add ",
+						"Git: Add All"
+					],
+					[
+						"json",
+						"Set Syntax: JSON"
+					],
+					[
+						"ena",
+						"Package Control: Enable Package"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"utf",
+						"ConvertToUTF8: Reload with Encoding"
+					],
+					[
+						"installp",
+						"Package Control: Install Package"
+					],
+					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"removep",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 172.0,
+				"history":
+				[
+					"8/40",
+					"30/40",
+					"168/40",
+					"1409/2/60"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/Program Files/Sublime Text 3"
+			],
+			"file_history":
+			[
+				"/C/Program Files/Sublime Text 3/.git/config",
+				"/C/Program Files/Sublime Text 3/Data/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/SublimeLinter/Default (Windows).sublime-keymap",
+				"/C/Program Files/Sublime Text 3/Data/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+				"/C/Program Files/Sublime Text 3/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Program Files/Sublime Text 3/Data/Packages/CSSLint/Default (Windows).sublime-keymap",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/SublimeLinter.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/BracketHighlighter/bh_core.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/bh_core.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/CSSLint/CSSLint.sublime-settings",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-app-1.0.0/community-web/src/main/webapp/content/demo/demo-empty.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-app-1.0.0/community-web/src/main/webapp/stylesheets/base - 副本.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-app-1.0.0/community-web/src/main/webapp/content/views/shop/index.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-app-1.0.0/community-web/src/main/webapp/content/views/shop/list.html",
+				"/C/Program Files/Sublime Text 3/Data/Packages/CodeFormatter/Default (Windows).sublime-keymap",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/demo/demo-sui.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/demo/demo-custom-sui.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/activity/activity_join.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/activity/activity_join.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/activity/activity_detail.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/activity/activity_detail.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/activity/activity_detail.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/sm&sm-extend.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/activity/activity_list.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/activity/activity_publish.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/hardware/device_management.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/lottery/index.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/repairs/dispatch_repair_order_detail.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/repairs/repair_order_detail.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/repairs/repair_order_list.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/talent/talent_detail.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/topic/topic_list.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/topic/topic_publish.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/user/activity_detail.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/user/activity_edit.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/topic/topic_detail.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/topic/topic_detail.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/topic/topic_list.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/user/topic_list.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/user/topic_list.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/user/activity_list.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/user/activity_list.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/common/smUtil.js",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Terminal.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/Terminal/Terminal.sublime-settings",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/demo/demo.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/demo.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/demo/custom-sui.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/topic/user_activity_list.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/login.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/login.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/hardware/device_list.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/hardware/device_list.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/hardware/device_management.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/hardware/device_management.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/hardware/device_list.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/hardware/device_list.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/base.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/fonts/demo.html",
+				"/C/Program Files/cmder/vendor/profile.ps1",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Side Bar.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/Git/Git.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Git.sublime-settings"
+			],
+			"find":
+			{
+				"height": 21.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					"F:\\works\\物业\\shequ\\03研发、上线、交付\\服务端\\01编码\\branches\\community-ui\\community-web\\src\\main\\webapp\\stylesheets"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"core.",
+					"0894ec",
+					"color-orange-f",
+					"di",
+					"rmb",
+					"content pb20",
+					"payment-list",
+					"follow-up",
+					"#",
+					"repairs_evaluate.html?id=123",
+					"complaint_evaluate.html?id=123",
+					"get.html?id=123",
+					"href=\"#\"",
+					"申请人",
+					".payment-list ",
+					" payment-list",
+					".payment-list ",
+					"payment-list",
+					"get.html?id=123",
+					"id",
+					".info-list ul li",
+					"<div class=\"item-title\">",
+					"rmb",
+					"coustom-button-confirm",
+					"评论",
+					".button.coustom-button-comment",
+					"eac500",
+					"#eac500",
+					"button:active",
+					"<-%= currentList.nickName %->",
+					"font-size: 0.8rem;",
+					"285c95",
+					"<-%= currentList.nickName %->",
+					"00bb9c",
+					"f97743",
+					"icon-coustom-tips",
+					"删除",
+					"f97743",
+					"ffa00a",
+					"45cb7f",
+					"最近开门时间:2016-06-06 11:11:11",
+					"icon-font-kaiguan",
+					".icon-font-",
+					"icon-font",
+					"%3C",
+					"node[i]",
+					"data-id",
+					"houseId",
+					"beforUrl",
+					"checkAddress"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"font-size: 0.7rem;"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"folders":
+			[
+				{
+					"path": "C:\\Program Files\\Sublime Text 3"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Program Files/Sublime Text 3/ReadMe.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2387,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										473,
+										473
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Tubnil Bright (SL).tmTheme",
+									"in_converting": true,
+									"is_init_dirty_state": false,
+									"origin_encoding": "GB2312",
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Program Files/Sublime Text 3/Data/Packages/User/Terminal.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 453,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										453,
+										453
+									]
+								],
+								"settings":
+								{
+									"auto_complete": true,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Tubnil Bright (SL).tmTheme",
+									"is_init_dirty_state": false,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/Program Files/Sublime Text 3/Data/Packages/User/SublimeLinter/Tubnil Bright (SL).tmTheme",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 11167,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										367,
+										367
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												363,
+												366
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/tag.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												352,
+												355
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Tubnil Bright (SL).tmTheme",
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/XML/XML.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/C/Program Files/Sublime Text 3/.git/config",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 365,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										136,
+										136
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Tubnil Bright (SL).tmTheme",
+									"is_init_dirty_state": false,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 21.0
+			},
+			"input":
+			{
+				"height": 29.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.csslint_result_view":
+			{
+				"height": 161.0
+			},
+			"output.exec":
+			{
+				"height": 241.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 515.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,1,-1,-1,-1,-1,960,100,100,1263",
+			"project": "",
+			"replace":
+			{
+				"height": 38.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"data/packages/user/terminal.sublime-settings",
+						"Data\\Packages\\User\\Terminal.sublime-settings"
+					],
+					[
+						"data/packages/user/sublimelinter/tubnilbright(sl).tmtheme",
+						"Data\\Packages\\User\\SublimeLinter\\Tubnil Bright (SL).tmTheme"
+					],
+					[
+						"base",
+						"stylesheets\\base.css"
+					],
+					[
+						"smc",
+						"javascripts\\common\\smConfig.js"
+					],
+					[
+						"javascripts/views/demo",
+						"javascripts\\views\\demo.js"
+					],
+					[
+						"smu",
+						"javascripts\\common\\smUtil.js"
+					],
+					[
+						"viewsactivity_detail",
+						"javascripts\\views\\activity\\activity_detail.js"
+					],
+					[
+						"stylesheets/views/activity/activity_join.css",
+						"stylesheets\\views\\activity\\activity_join.css"
+					],
+					[
+						"stylesheets/views/activity/activity_detail.css",
+						"stylesheets\\views\\activity\\activity_detail.css"
+					],
+					[
+						"viewstopic_detail",
+						"content\\views\\topic\\topic_detail.jsp"
+					],
+					[
+						"viewstopic",
+						"javascripts\\views\\topic\\topic_detail.js"
+					],
+					[
+						"viewstopic_list",
+						"javascripts\\views\\topic\\topic_list.js"
+					],
+					[
+						"viewstopic_de",
+						"javascripts\\views\\topic\\topic_detail.js"
+					],
+					[
+						"viewsuseractivitylist",
+						"content\\views\\user\\activity_list.jsp"
+					],
+					[
+						"useractivity_list",
+						"content\\topic\\user_activity_list.jsp"
+					],
+					[
+						"usertopic",
+						"stylesheets\\views\\user\\topic_list.css"
+					],
+					[
+						"stylesheets/views/user/topic_list.css",
+						"stylesheets\\views\\user\\topic_list.css"
+					],
+					[
+						"device_list.css",
+						"stylesheets\\views\\hardware\\device_list.css"
+					],
+					[
+						"javascripts/views/hardware/device_list",
+						"javascripts\\views\\hardware\\device_list.js"
+					],
+					[
+						"demo",
+						"fonts\\demo.html"
+					],
+					[
+						"stylesheets/views/hardware/device_list.css",
+						"stylesheets\\views\\hardware\\device_list.css"
+					],
+					[
+						"javascripts/views/login",
+						"javascripts\\views\\login.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 218.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 13,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"fonts",
+						"font-size"
+					],
+					[
+						"javascript",
+						"javascript:void"
+					],
+					[
+						"content",
+						"div.content"
+					],
+					[
+						"java",
+						"javascript:void"
+					],
+					[
+						"fo",
+						"focus	.focus()"
+					],
+					[
+						"tr",
+						"trigger	.trigger()"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"che",
+						"checked"
+					],
+					[
+						"house",
+						"houseId"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Program Files/Sublime Text 3/Data/Packages/User/Color Highlighter/themes/Tubnil Bright (SL).tmTheme",
+					"settings":
+					{
+						"buffer_size": 116941,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Nodejs/Nodejs.sublime-build",
+							""
+						],
+						[
+							"Packages/JSHint/JSHint.sublime-build",
+							""
+						],
+						[
+							"Packages/YUI Compressor/YUI Compressor.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/YUI Compressor/YUI Compressor.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 219.0,
+				"last_filter": "git add",
+				"selected_items":
+				[
+					[
+						"git add",
+						"Git: Add All"
+					],
+					[
+						"git all",
+						"Git: Add All"
+					],
+					[
+						"gitadd",
+						"Git: Add All"
+					],
+					[
+						"git",
+						"Git: Add All"
+					],
+					[
+						"add",
+						"Git: Add All"
+					],
+					[
+						"add ",
+						"Git: Add All"
+					],
+					[
+						"json",
+						"Set Syntax: JSON"
+					],
+					[
+						"ena",
+						"Package Control: Enable Package"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"utf",
+						"ConvertToUTF8: Reload with Encoding"
+					],
+					[
+						"installp",
+						"Package Control: Install Package"
+					],
+					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"removep",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 464.0
+			},
+			"console":
+			{
+				"height": 172.0,
+				"history":
+				[
+					"8/40",
+					"30/40",
+					"168/40",
+					"1409/2/60"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/Program Files/Sublime Text 3"
+			],
+			"file_history":
+			[
+				"/C/Program Files/Sublime Text 3/.git/config",
+				"/C/Program Files/Sublime Text 3/Data/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/SublimeLinter/Default (Windows).sublime-keymap",
+				"/C/Program Files/Sublime Text 3/Data/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+				"/C/Program Files/Sublime Text 3/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Program Files/Sublime Text 3/Data/Packages/CSSLint/Default (Windows).sublime-keymap",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/SublimeLinter.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/BracketHighlighter/bh_core.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/bh_core.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/CSSLint/CSSLint.sublime-settings",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-app-1.0.0/community-web/src/main/webapp/content/demo/demo-empty.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-app-1.0.0/community-web/src/main/webapp/stylesheets/base - 副本.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-app-1.0.0/community-web/src/main/webapp/content/views/shop/index.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-app-1.0.0/community-web/src/main/webapp/content/views/shop/list.html",
+				"/C/Program Files/Sublime Text 3/Data/Packages/CodeFormatter/Default (Windows).sublime-keymap",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/demo/demo-sui.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/demo/demo-custom-sui.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/activity/activity_join.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/activity/activity_join.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/activity/activity_detail.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/activity/activity_detail.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/activity/activity_detail.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/sm&sm-extend.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/activity/activity_list.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/activity/activity_publish.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/hardware/device_management.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/lottery/index.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/repairs/dispatch_repair_order_detail.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/repairs/repair_order_detail.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/repairs/repair_order_list.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/talent/talent_detail.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/topic/topic_list.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/topic/topic_publish.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/user/activity_detail.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/user/activity_edit.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/topic/topic_detail.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/topic/topic_detail.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/topic/topic_list.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/user/topic_list.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/user/topic_list.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/user/activity_list.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/user/activity_list.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/common/smUtil.js",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Terminal.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/Terminal/Terminal.sublime-settings",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/demo/demo.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/demo.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/demo/custom-sui.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/topic/user_activity_list.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/login.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/login.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/hardware/device_list.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/hardware/device_list.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/hardware/device_management.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/hardware/device_management.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/hardware/device_list.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/hardware/device_list.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/base.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/fonts/demo.html",
+				"/C/Program Files/cmder/vendor/profile.ps1",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Side Bar.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/Git/Git.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Git.sublime-settings"
+			],
+			"find":
+			{
+				"height": 21.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					"F:\\works\\物业\\shequ\\03研发、上线、交付\\服务端\\01编码\\branches\\community-ui\\community-web\\src\\main\\webapp\\stylesheets"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"core.",
+					"0894ec",
+					"color-orange-f",
+					"di",
+					"rmb",
+					"content pb20",
+					"payment-list",
+					"follow-up",
+					"#",
+					"repairs_evaluate.html?id=123",
+					"complaint_evaluate.html?id=123",
+					"get.html?id=123",
+					"href=\"#\"",
+					"申请人",
+					".payment-list ",
+					" payment-list",
+					".payment-list ",
+					"payment-list",
+					"get.html?id=123",
+					"id",
+					".info-list ul li",
+					"<div class=\"item-title\">",
+					"rmb",
+					"coustom-button-confirm",
+					"评论",
+					".button.coustom-button-comment",
+					"eac500",
+					"#eac500",
+					"button:active",
+					"<-%= currentList.nickName %->",
+					"font-size: 0.8rem;",
+					"285c95",
+					"<-%= currentList.nickName %->",
+					"00bb9c",
+					"f97743",
+					"icon-coustom-tips",
+					"删除",
+					"f97743",
+					"ffa00a",
+					"45cb7f",
+					"最近开门时间:2016-06-06 11:11:11",
+					"icon-font-kaiguan",
+					".icon-font-",
+					"icon-font",
+					"%3C",
+					"node[i]",
+					"data-id",
+					"houseId",
+					"beforUrl",
+					"checkAddress"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"font-size: 0.7rem;"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"folders":
+			[
+				{
+					"path": "C:\\Program Files\\Sublime Text 3"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Program Files/Sublime Text 3/Data/Packages/User/Color Highlighter/themes/Tubnil Bright (SL).tmTheme",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 116941,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										739,
+										739
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												735,
+												738
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/tag.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												719,
+												722
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Tubnil Bright (SL).tmTheme",
+									"syntax": "Packages/XML/XML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 21.0
+			},
+			"input":
+			{
+				"height": 29.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.csslint_result_view":
+			{
+				"height": 161.0
+			},
+			"output.exec":
+			{
+				"height": 241.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 515.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,1,-1,-1,-1,-1,930,156,70,1319",
+			"project": "",
+			"replace":
+			{
+				"height": 38.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"data/packages/user/colorhighlighter/themes/tubnilbright(sl).tmtheme",
+						"Data\\Packages\\User\\Color Highlighter\\themes\\Tubnil Bright (SL).tmTheme"
+					],
+					[
+						"data/packages/user/terminal.sublime-settings",
+						"Data\\Packages\\User\\Terminal.sublime-settings"
+					],
+					[
+						"data/packages/user/sublimelinter/tubnilbright(sl).tmtheme",
+						"Data\\Packages\\User\\SublimeLinter\\Tubnil Bright (SL).tmTheme"
+					],
+					[
+						"base",
+						"stylesheets\\base.css"
+					],
+					[
+						"smc",
+						"javascripts\\common\\smConfig.js"
+					],
+					[
+						"javascripts/views/demo",
+						"javascripts\\views\\demo.js"
+					],
+					[
+						"smu",
+						"javascripts\\common\\smUtil.js"
+					],
+					[
+						"viewsactivity_detail",
+						"javascripts\\views\\activity\\activity_detail.js"
+					],
+					[
+						"stylesheets/views/activity/activity_join.css",
+						"stylesheets\\views\\activity\\activity_join.css"
+					],
+					[
+						"stylesheets/views/activity/activity_detail.css",
+						"stylesheets\\views\\activity\\activity_detail.css"
+					],
+					[
+						"viewstopic_detail",
+						"content\\views\\topic\\topic_detail.jsp"
+					],
+					[
+						"viewstopic",
+						"javascripts\\views\\topic\\topic_detail.js"
+					],
+					[
+						"viewstopic_list",
+						"javascripts\\views\\topic\\topic_list.js"
+					],
+					[
+						"viewstopic_de",
+						"javascripts\\views\\topic\\topic_detail.js"
+					],
+					[
+						"viewsuseractivitylist",
+						"content\\views\\user\\activity_list.jsp"
+					],
+					[
+						"useractivity_list",
+						"content\\topic\\user_activity_list.jsp"
+					],
+					[
+						"usertopic",
+						"stylesheets\\views\\user\\topic_list.css"
+					],
+					[
+						"stylesheets/views/user/topic_list.css",
+						"stylesheets\\views\\user\\topic_list.css"
+					],
+					[
+						"device_list.css",
+						"stylesheets\\views\\hardware\\device_list.css"
+					],
+					[
+						"javascripts/views/hardware/device_list",
+						"javascripts\\views\\hardware\\device_list.js"
+					],
+					[
+						"demo",
+						"fonts\\demo.html"
+					],
+					[
+						"stylesheets/views/hardware/device_list.css",
+						"stylesheets\\views\\hardware\\device_list.css"
+					],
+					[
+						"javascripts/views/login",
+						"javascripts\\views\\login.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 218.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 14,
 			"workspace_name": ""
 		}
 	],

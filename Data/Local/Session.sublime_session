@@ -1,15 +1,16 @@
 {
 	"folder_history":
 	[
+		"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/trunk/community/community-web/src/main/webapp",
+		"/F/works/estate-lottery"
 	],
 	"last_version": 3103,
-	"last_window_id": 1,
+	"last_window_id": 2,
 	"log_indexing": false,
 	"settings":
 	{
-	},
-	"windows":
-	[
+		"new_window_height": 541.0,
+		"new_window_settings":
 		{
 			"auto_complete":
 			{
@@ -17,20 +18,44 @@
 				[
 				]
 			},
-			"buffers":
-			[
-			],
-			"build_system": "",
 			"build_system_choices":
 			[
+				[
+					[
+						[
+							"Packages/Nodejs/Nodejs.sublime-build",
+							""
+						],
+						[
+							"Packages/JSHint/JSHint.sublime-build",
+							""
+						],
+						[
+							"Packages/YUI Compressor/YUI Compressor.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/YUI Compressor/YUI Compressor.sublime-build",
+						""
+					]
+				]
 			],
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 81.0,
-				"last_filter": "removep",
+				"height": 392.0,
+				"last_filter": "js",
 				"selected_items":
 				[
+					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
 					[
 						"removep",
 						"Package Control: Remove Package"
@@ -44,7 +69,7 @@
 			},
 			"console":
 			{
-				"height": 146.0,
+				"height": 449.0,
 				"history":
 				[
 				]
@@ -60,6 +85,11 @@
 			},
 			"file_history":
 			[
+				"/C/Program Files/Sublime Text 3/Data/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Side Bar.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/Git/Git.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Git.sublime-settings"
 			],
 			"find":
 			{
@@ -91,11 +121,302 @@
 				"whole_word": false,
 				"wrap": true
 			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 241.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 686.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/F/works/estate-lottery/javascripts/views/lottery/index.js",
+					"settings":
+					{
+						"buffer_size": 8970,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "Packages/YUI Compressor/YUI Compressor.sublime-build",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Nodejs/Nodejs.sublime-build",
+							""
+						],
+						[
+							"Packages/JSHint/JSHint.sublime-build",
+							""
+						],
+						[
+							"Packages/YUI Compressor/YUI Compressor.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/YUI Compressor/YUI Compressor.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "js",
+				"selected_items":
+				[
+					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"removep",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 449.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/F/works/estate-lottery",
+				"/F/works/estate-lottery/javascripts",
+				"/F/works/estate-lottery/javascripts/views",
+				"/F/works/estate-lottery/javascripts/views/lottery"
+			],
+			"file_history":
+			[
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Program Files/cmder/vendor/profile.ps1",
+				"/C/Program Files/Sublime Text 3/Data/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Side Bar.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/Git/Git.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Git.sublime-settings"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "F:\\works\\estate-lottery"
+				}
+			],
 			"groups":
 			[
 				{
+					"selected": 0,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/F/works/estate-lottery/javascripts/views/lottery/index.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8970,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										801,
+										801
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 195.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
 					]
 				}
 			],
@@ -130,12 +451,16 @@
 				]
 			},
 			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 241.0
+			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,690,387,91,1089",
+			"position": "0,0,1,-32000,-32000,-1,-1,692,332,93,1034",
 			"project": "",
 			"replace":
 			{
@@ -177,7 +502,7 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 150.0,
+			"side_bar_width": 175.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
